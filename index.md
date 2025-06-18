@@ -1,7 +1,3 @@
-# Starter Project: RGB Slider
-Ever wondered how different basic colors can be mixed to make amazing combinations? Look no further than the RGB Slider, where with just the sliding of a few switches you can combine red, green, and blue to uncover several amazing mixings of colors. Using some basic soldering techniques and wire connections, I created a small circuit with three switches for red, green, and blue respectively, and when a USB-C source was plugged into it, the sliders would enable the light to glow in many different color combinations. Some challenges I faced were that not all connections on the board were secured and working, so there had to be some extra soldering to fix these parts. Many of the power sources from outlets were not able to power the system as well, so an alternate power bank and cable had to be used. Overall, this was a succcessful and satisfactory preliminary project, and I look forward to building more advanced systems and mechanisms with the skills I learn. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0HCLcSI6nYQ?si=S5emsxPb1mkO4H__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Project Name Here
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
@@ -94,4 +90,9 @@ One of the best parts about Github is that you can view how other people set up 
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
+# Starter Project: RGB Slider
+Ever wondered how different basic colors can be mixed to make amazing combinations? Look no further than the RGB Slider, where with just the sliding of a few switches you can combine red, green, and blue to uncover several amazing mixings of colors. Using some basic soldering techniques and wire connections, I created a small circuit with three switches for red, green, and blue respectively, and when a USB-C source was plugged into it, the sliders would enable the light to glow in many different color combinations. Some challenges I faced were that not all connections on the board were secured and working, so there had to be some extra soldering to fix these parts. Many of the power sources from outlets were not able to power the system as well, so an alternate power bank and cable had to be used. Overall, this was a succcessful and satisfactory preliminary project, and I look forward to building more advanced systems and mechanisms with the skills I learn. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0HCLcSI6nYQ?si=S5emsxPb1mkO4H__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![Headstone Image](SakethS (1).png)
