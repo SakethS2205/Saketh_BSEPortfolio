@@ -2,12 +2,12 @@
 # Real-Time Planet Tracker 
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
-
+<!--
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
-```
+```-->
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -17,11 +17,13 @@ You should comment out all portions of your portfolio that you have not complete
 
 ![Headstone Image](SakethS (1).png)
   
-//# Final Milestone
+<!--# Final Milestone
 
 //**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the //code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HCLcSI6nYQ?si=S5emsxPb1mkO4H__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+-->
 
 <!--
 For your final milestone, explain the outcome of your project. Key details to include are:
@@ -32,7 +34,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 -->
 
 
-# Second Milestone
+<!--# Second Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -43,7 +45,7 @@ For your second milestone, explain what you've worked on since your previous mil
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
-
+-->
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
