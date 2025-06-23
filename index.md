@@ -12,6 +12,9 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 |:--:|:--:|:--:|:--:|
 | Saketh S | Saint Francis High School | Aerospace/Mechanical Engineering | Incoming Senior
 
+
+![Headstone Image](SakethS (1).png)
+
 <!--
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
@@ -102,7 +105,6 @@ Ever wondered how different basic colors can be mixed to make amazing combinatio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HCLcSI6nYQ?si=S5emsxPb1mkO4H__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-![Headstone Image](SakethS (1).png)
 
 ![Headstone Image](starterschematic.png)
 
