@@ -101,8 +101,10 @@ Ever wondered how different basic colors can be mixed to make amazing combinatio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HCLcSI6nYQ?si=S5emsxPb1mkO4H__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![Headstone Image](SakethS (1).png)
+
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | DIY Soldering Practice Kit RGB Practice Learning Electronics Training Board | Kit with hardware for soldering together the components for RGB Slider(switches, USB-C port, light, PCB) | $7.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/gp/product/B0BKM3D927/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)"> Link </a> |
 
-![Headstone Image](SakethS (1).png)
+
