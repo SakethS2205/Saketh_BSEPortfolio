@@ -14,19 +14,19 @@ You should comment out all portions of your portfolio that you have not complete
 |:--:|:--:|:--:|:--:|
 | Saketh S | Saint Francis High School | Aerospace/Mechanical Engineering | Incoming Senior
 
+<!---
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](SakethS (1).png)
+-->
   
-<!--# Final Milestone
+<!---# Final Milestone
 
 //**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the //code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HCLcSI6nYQ?si=S5emsxPb1mkO4H__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
--->
 
-<!--
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
@@ -35,7 +35,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 -->
 
 
-<!--# Second Milestone
+<!---# Second Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -47,6 +47,7 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 -->
+
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
@@ -88,11 +89,13 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
+<!---
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+-->
 
 # Starter Project: RGB Slider
 Ever wondered how different basic colors can be mixed to make amazing combinations? Look no further than the RGB Slider, where with just the sliding of a few switches you can combine red, green, and blue to uncover several amazing mixings of colors. Using some basic soldering techniques and wire connections, I created a small circuit with three switches for red, green, and blue respectively, and when a USB-C source was plugged into it, the sliders would enable the light to glow in many different color combinations. Some challenges I faced were that not all connections on the board were secured and working, so there had to be some extra soldering to fix these parts. Many of the power sources from outlets were not able to power the system as well, so an alternate power bank and cable had to be used. Overall, this was a succcessful and satisfactory preliminary project, and I look forward to building more advanced systems and mechanisms with the skills I learn. 
