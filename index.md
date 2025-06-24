@@ -54,6 +54,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 
 
+
 For my first milestone in this project, I fully assembled and connected all the necessary hardware portions of the device. This includes the Arduino Mega, GPS receiver, IMU, pan/tilt servos, and the laser pointer. The code ran on the Arduino will match the observer's GPS coordinates with the RA and DEC values of a given celestial object at a certain time to find the location/trajectory of it and rotate the servos to point the laser at the approximate location of it. Some challenges I encountered while assembling and connecting all of this was that my soldering would sometimes not come out perfectly, especially with the wires of the laser and the header pins on the IMU and GPS. 
 
 <!---
