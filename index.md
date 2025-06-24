@@ -1,6 +1,7 @@
 
 # Real-Time Planet Tracker 
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+
+<!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!-->
 
 
 
@@ -48,11 +49,11 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdl2LDAWb-E?si=GAsgxw-DyhcmIB84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For my first milestone in this project, 
+
+For my first milestone in this project, I fully assembled and connected all the necessary hardware portions of the device. This includes the Arduino Mega, GPS receiver, IMU, pan/tilt servos, and the laser pointer. The code ran on the Arduino will match the observer's GPS coordinates with the RA and DEC values of a given celestial object at a certain time to find the location/trajectory of it and rotate the servos to point the laser at the approximate location of it. Some challenges I encountered while assembling and connecting all of this was that my soldering would sometimes not come out perfectly, especially with the wires of the laser and the header pins on the IMU and GPS. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
