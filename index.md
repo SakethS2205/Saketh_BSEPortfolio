@@ -1,7 +1,7 @@
 
 # Real-Time Planet Tracker 
 
-<!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!-->
+Using a GPS, an IMU module, Servo motors, and a laser, this real-time planet tracker will visually show the location and trajectories of different celestial bodies and will be able to predict their paths and positions over time as well. 
 
 
 
@@ -55,7 +55,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 
 
-For my first milestone in this project, I fully assembled and connected all the necessary hardware portions of the device. This includes the Arduino Mega, GPS receiver, IMU, pan/tilt servos, and the laser pointer. The code ran on the Arduino will match the observer's GPS coordinates with the RA and DEC values of a given celestial object at a certain time to find the location/trajectory of it and rotate the servos to point the laser at the approximate location of it. Some challenges I encountered while assembling and connecting all of this was that my soldering would sometimes not come out perfectly, especially with the wires of the laser and the header pins on the IMU and GPS. 
+For my first milestone in this project, I fully assembled and connected all the necessary hardware portions of the device. This includes the Arduino Mega, GPS receiver, IMU, pan/tilt servos, and the laser pointer. The code ran on the Arduino will match the observer's GPS coordinates with the RA and DEC values of a given celestial object at a certain time to find the location/trajectory of it and rotate the servos to point the laser at the approximate location of it. Some challenges I encountered while assembling and connecting all of this was that my soldering would sometimes not come out perfectly, especially with the wires of the laser and the header pins on the IMU and GPS. Another issue that I came across was to make sure that all the connections between the servos and other components of the project were secure and correct so as to not hamper the movement and rotation of the servos with full control from the potentiometer. For my next milestones, I will be integrating the GPS and IMU to work together in order to use the observer's location for effective pinpointing of a planet's orbit/position. 
 
 <!---
 # Schematics 
