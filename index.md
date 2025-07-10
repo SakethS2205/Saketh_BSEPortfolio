@@ -31,13 +31,20 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-
+-->
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JIHNxqVbWq8?si=2UA81B0krCeNUy9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Accomplishments 
+I have made many progress updates since my first milestone. One of the major tasks I have accomplished was experimenting with the Servo motor drive shield, particularly because how it would make my project more advanced and efficient. Using the drive shield properly would have decreased the number of power connections to my motors and would allow me to make my wire connections for the servos a lot cleaner. Unfortunately this caused a lot of issues in my code and servo movement, so I had to remove it ultimately. Another important accomplishment for this milestone was connecting and using the larger, more powerful winch servos which would make my movement and planetary tracking much more advanced and realistic. 
+
+
+## Challenges and surprises
+So far, I have encountered a variety of challenges, obstacles, and surprises along the way. The most significant of these were coordinating the functionality of the motors, especially with the new winch motors and drive shield. There were a lot of cumbersome issues with calibrating and controlling these motors with the potentiometer and my planet tracking code, and resolving many of these issues did set me back on my progress more frequently than I would have hoped.   
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
@@ -45,7 +52,7 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
--->
+
 
 # First Milestone
 
