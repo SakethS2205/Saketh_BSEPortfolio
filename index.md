@@ -15,8 +15,6 @@ Using a GPS, an IMU module, Servo motors, and a laser, this real-time planet tra
 
 
 
-![Headstone Image](SakethS (1).png)
-
   
 # Final Milestone
 
