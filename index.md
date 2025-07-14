@@ -12,17 +12,25 @@ Using a GPS, an IMU module, Servo motors, and a laser, this real-time planet tra
 
 ![Headstone Image](SakethS (1).png)
 
-<!--
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+
+
 
 ![Headstone Image](SakethS (1).png)
 
   
 # Final Milestone
 
-//**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the //code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0HCLcSI6nYQ?si=S5emsxPb1mkO4H__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YMEJdc4_cEc?si=YkhK3B43rg3Zn3_W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Accomplishments 
+Since my previous milestone, I have made significant accomplishments that are crucial to the completion of this project. All mathematical calculations are fully complete and accurate to the point where the azimuth and altitude are displayed properly and correctly in the serial monitor, and the laser can properly point at the location of a planet where it would appear in the sky. The motors are able to move flawlessly at this point as well, and there are very minimal issues with default servo calibration and resetting. 
+
+
+## Challenges and Triumphs
+My project would ultimately have never been finished the way it was without the various setbacks and accomplishments throughout. 
 
 
 For your final milestone, explain the outcome of your project. Key details to include are:
@@ -31,7 +39,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
--->
+
 
 # Second Milestone
 
@@ -45,6 +53,9 @@ I have made many progress updates since my first milestone. One of the major tas
 
 ## Challenges and surprises
 So far, I have encountered a variety of challenges, obstacles, and surprises along the way. The most significant of these were coordinating the functionality of the motors, especially with the new winch motors and drive shield. There were a lot of cumbersome issues with calibrating and controlling these motors with the potentiometer and my planet tracking code, and resolving many of these issues did set me back on my progress more frequently than I would have hoped.   
+
+## Next Steps
+Before the final milestone, I plan to fully integrate the mathematical calculations necessary to accurately find and visually point to a planet's position, as well as using the potentiometer/button to switch between tracking different planets or different modes of tracking. 
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
