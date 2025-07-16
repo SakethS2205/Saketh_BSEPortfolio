@@ -28,7 +28,11 @@ Since my previous milestone, I have made significant accomplishments that are cr
 
 
 ## Challenges and Triumphs
-My project would ultimately have never been finished the way it was without the various setbacks and accomplishments throughout. 
+My project would ultimately have never been finished the way it was without the various setbacks and accomplishments throughout. Learning the basics of servo motors and connecting/operating them effectively was a crucial fundamental step that, even though long, tedious, and frustrating at times, were integral to the success of this project that people can visually see. Of course, understanding, testing, and implementing the numerous different ways to calculate orbital elements for azimuth and altitude was probably the most difficult part of this whole process. It was through focused trial-and-error, research, and collaboration that these roadblocks were overcome and the project worked efficiently. Every minor and major struggle I went through in this process made the project end up the way it did, and I am really glad that I went through these various experiences. 
+
+## Key Topics
+At Bluestamp, I explored and learned a great variety of concepts and skills that are fundamental to pursuing further success in engineering. I started off with learning and refining basic techniques and methods necessary for mastering engineering hardware, such as soldering, connecting wires, and other similar skills. Over the course of the program, I also discovered various different 
+
 
 
 For your final milestone, explain the outcome of your project. Key details to include are:
