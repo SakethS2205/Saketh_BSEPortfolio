@@ -14,6 +14,11 @@ Using a GPS, an IMU module, Servo motors, and a laser, this real-time planet tra
 
 
 
+# Modifications 
+
+For my main modification to this project, I wanted to find a way to keep all my circuitry organized, intact and secure. My wiring was all over the place, and the connections to my servo motors and laser were frequently disconnected or broken entirely when running the code. To fix this, I used CAD modeling on Onshape to create a hollow box-like case that would have adequate space between top and bottom to fit my breadboard and Mega away from each other, as well as a cutout for my servo motors to be fitted into. It also features holes on either sides to thread the GPS module through and for an opening for the Servo power connection port. [Here](https://cad.onshape.com/documents/aed883b26d9073cf22171671/w/91b97a96b15fd0522a5b3adb/e/5ede6d877e0c7b5273e45bed?renderMode=0&uiState=68902d27537ba56961986250) is my schematic in Onshape: 
+
+
 
   
 # Final Milestone
@@ -31,15 +36,9 @@ Since my previous milestone, I have made significant accomplishments that are cr
 My project would ultimately have never been finished the way it was without the various setbacks and accomplishments throughout. Learning the basics of servo motors and connecting/operating them effectively was a crucial fundamental step that, even though long, tedious, and frustrating at times, were integral to the success of this project that people can visually see. Of course, understanding, testing, and implementing the numerous different ways to calculate orbital elements for azimuth and altitude was probably the most difficult part of this whole process. It was through focused trial-and-error, research, and collaboration that these roadblocks were overcome and the project worked efficiently. Every minor and major struggle I went through in this process made the project end up the way it did, and I am really glad that I went through these various experiences. 
 
 ## Key Topics
-At Bluestamp, I explored and learned a great variety of concepts and skills that are fundamental to pursuing further success in engineering. I started off with learning and refining basic techniques and methods necessary for mastering engineering hardware, such as soldering, connecting wires, and other similar skills. Over the course of the program, I also discovered various different 
+At Bluestamp, I explored and learned a great variety of concepts and skills that are fundamental to pursuing further success in engineering. I started off with learning and refining basic techniques and methods necessary for mastering engineering hardware, such as soldering, connecting wires, and other similar skills. Over the course of the program, I also discovered various different principles and concepts specific to my project, like complex orbital mechanics, the functionality of my particular servo motors, how a potentiometer controls them, and much more. Learning and experimenting with all of these gave me a much better and more vivid understanding of the multifaceted foci of engineering, and the many different ways that I could become deeply involved in these disciplines. 
 
 
-
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
 
 
 
@@ -109,11 +108,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 -->
 
 # Starter Project: RGB Slider
