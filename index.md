@@ -10,13 +10,13 @@ Using a GPS, an IMU module, Servo motors, and a laser, this real-time planet tra
 | Saketh S | Saint Francis High School | Aerospace/Mechanical Engineering | Incoming Senior
 
 
-![Headstone Image](SakethS (1).png)
+<!--![Headstone Image](SakethS (1).png) -->
 
 
 
 # Modifications 
 
-For my main modification to this project, I wanted to find a way to keep all my circuitry organized, intact and secure. My wiring was all over the place, and the connections to my servo motors and laser were frequently disconnected or broken entirely when running the code. To fix this, I used CAD modeling on Onshape to create a hollow box-like case that would have adequate space between top and bottom to fit my breadboard and Mega away from each other, as well as a cutout for my servo motors to be fitted into. It also features holes on either sides to thread the GPS module through and for an opening for the Servo power connection port. [Here](https://cad.onshape.com/documents/aed883b26d9073cf22171671/w/91b97a96b15fd0522a5b3adb/e/5ede6d877e0c7b5273e45bed?renderMode=0&uiState=68902d27537ba56961986250) is my schematic in Onshape: 
+For my main modification to this project, I wanted to find a way to keep all my circuitry organized, intact and secure. My wiring was all over the place, and the connections to my servo motors and laser were frequently disconnected or broken entirely when running the code. To fix this, I used CAD modeling on Onshape to create a hollow box-like case that would have adequate space between top and bottom to fit my breadboard and Mega away from each other, as well as a cutout for my servo motors to be fitted into. It also features holes on either sides to thread the GPS module through and for an opening for the Servo power connection port. [Here](https://cad.onshape.com/documents/aed883b26d9073cf22171671/w/91b97a96b15fd0522a5b3adb/e/5ede6d877e0c7b5273e45bed?renderMode=0&uiState=68902d27537ba56961986250) is my schematic in Onshape.
 
 
 
@@ -97,10 +97,10 @@ void loop() {
 
 }
 
+-->
 
+<!--
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
